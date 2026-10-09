@@ -129,10 +129,10 @@ These projects demonstrate my practical experience developing Python-based tools
 |[LANScout](https://github.com/oluwaseyi-rgb/LANScout.git)                 |Wireless network discovery and inspection of available network information, depending on platform capabilities.                                                                 |Python         |
 |[VulnWatchPro](https://github.com/oluwaseyi-rgb/VulnWatchPro.git)   |An advanced Python-powered web vulnerability scanner built for deeper security assessment, enhanced vulnerability detection, and automated reconnaissance.                                                                                           |Python, HTML|
 |[StactDetect](https://github.com/oluwaseyi-rgb/StackDetect.git)     |A host fingerprinting tool that takes a list of subdomains or URLs and reports their HTTP status, server headers, page title, and detected technology stack. Can run with subscout output.                                                                                           |Python         |
-|**Additional Assessment Tools**|Additional utilities for identifying and investigating potential web security issues.                                                                                           |Python         |
+|[StressWatch](https://github.com/oluwaseyi-rgb/StressWatch.git)     |A Locust-based load testing script for simulating realistic concurrent user traffic against internal services.                                                                                                                                                               |Python         |
 |**Additional Assessment Tools**|Additional utilities for identifying and investigating potential web security issues.                                                                                           |Python         |
 
-> **Note:** Add each tool’s current repository URL to its project name after the renamed repositories have been published.
+
 
 ────────
 
