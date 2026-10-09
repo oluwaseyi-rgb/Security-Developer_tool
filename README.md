@@ -122,12 +122,14 @@ These projects demonstrate my practical experience developing Python-based tools
 
 |Project                                      |Description                                                                                                                                                                     |Technologies   |
 |---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-|**VulnWatch**                                |Web security assessment covering selected security headers, SSL/TLS, basic SQLi and XSS checks, CORS, open redirects, and exposed paths. Reports findings and recommended fixes.|Python         |
+|[VulnWatch](https://github.com/oluwaseyi-rgb/VulnWatch.git)                                |Web security assessment covering selected security headers, SSL/TLS, basic SQLi and XSS checks, CORS, open redirects, and exposed paths. Reports findings and recommended fixes.|Python         |
 |**Subdomain Reconnaissance**                 |Subdomain enumeration and investigation of potential takeover risks.                                                                                                            |Python, asyncio|
 |[path-scanner](https://github.com/oluwaseyi-rgb/path_scanner.git)                           |Multithreaded discovery of potentially accessible web paths and directories.                                                                                                    |Python         |
 |[port-scanner](https://github.com/oluwaseyi-rgb/port_scanner.git)                            |Network port scanning, banner collection, and offline CVE cross-referencing.                                                                                                    |Python         |
 |**Wireless Network Scanner**                 |Wireless network discovery and inspection of available network information, depending on platform capabilities.                                                                 |Python         |
-|**Additional Vulnerability Assessment Tools**|Additional utilities for identifying and investigating potential web security issues.                                                                                           |Python         |
+|**Additional Assessment Tools**|Additional utilities for identifying and investigating potential web security issues.                                                                                           |Python         |
+|**Additional Assessment Tools**|Additional utilities for identifying and investigating potential web security issues.                                                                                           |Python         |
+|**Additional Assessment Tools**|Additional utilities for identifying and investigating potential web security issues.                                                                                           |Python         |
 
 > **Note:** Add each tool’s current repository URL to its project name after the renamed repositories have been published.
 
